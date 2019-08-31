@@ -1,4 +1,3 @@
-# Changed for fork repo and submodule?
 # YOLOv3
 Pytorch implementation of real time object detection algorithm YOLOv3
 
